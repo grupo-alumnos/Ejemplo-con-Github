@@ -6,7 +6,7 @@ namespace Ejemplo_con_Github
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("¡Hola mundo cruel!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
